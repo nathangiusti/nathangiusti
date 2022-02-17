@@ -1,16 +1,17 @@
-### Hi there 👋
+Software Engineer specializing in Business Intelligence
 
-<!--
-**nathangiusti/nathangiusti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects of Note
 
-Here are some ideas to get you started:
+### SISENSE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[PySense](https://github.com/nathangiusti/pysense): A Python SDK for Sisense
+
+[Sisense Scripts](https://github.com/nathangiusti/Sisense): Sample JS scripts for customizing your Sisense dashboards
+
+### POWER BI
+
+[PBIX Deserializer](https://github.com/nathangiusti/PBIX-Deserializer): GitHub action to convert PBIX files into JSON for version control
+
+[PBIX Workspace Deploy](https://github.com/nathangiusti/Power-BI-Workspace-Deploy): GitHub action to deploy PBIX files to workspace
+
+[PBIX Pipeline Deploy](https://github.com/nathangiusti/Power-BI-Pipeline-Deploy): GitHub action to deploy PBIX files to workspace via pipeline
