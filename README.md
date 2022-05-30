@@ -10,10 +10,11 @@ Software Engineer specializing in Business Intelligence
 
 ### POWER BI
 
+[Power BI Sample DevOps Repo](https://github.com/nathangiusti/Power-BI-Sample-VC-Repo): An example implementation of DevOps for Power BI in GitHub using the workflows and actions listed below. 
 
 [Power BI Reusable Workflows](https://github.com/nathangiusti/Power-BI-Reusable-Workflows): Reusable workflows for Power BI DevOps. Suggested to use these. If more customization is required, the actions this is built on are listed below. 
 
-[PBIX Deserializer](https://github.com/nathangiusti/PBIX-Deserializer): GitHub action to convert PBIX files into JSON for version control
+[PBIX Deserializer](https://github.com/nathangiusti/Power-BI-VC-Utils): GitHub action to convert PBIX files into JSON for version control
 
 [PBIX Workspace Deploy](https://github.com/nathangiusti/Power-BI-Workspace-Deploy): GitHub action to deploy PBIX files to workspace
 
