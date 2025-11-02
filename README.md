@@ -1,4 +1,4 @@
-Software Engineer specializing in Business Intelligence
+Software Engineer specializing in data ingestion, modeling, and analysis. 
 
 ## Projects of Note
 
