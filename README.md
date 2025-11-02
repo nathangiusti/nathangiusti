@@ -19,3 +19,9 @@ Software Engineer specializing in Business Intelligence
 [PBIX Workspace Deploy](https://github.com/nathangiusti/Power-BI-Workspace-Deploy): GitHub action to deploy PBIX files to workspace
 
 [PBIX Pipeline Deploy](https://github.com/nathangiusti/Power-BI-Pipeline-Deploy): GitHub action to deploy PBIX files to workspace via pipeline
+
+### ANALYSIS PROJECTS
+
+[Great British Bake-Off](https://github.com/nathangiusti/BakeOff): A data-based analysis of Great British Bake-Off
+
+[64ordle](https://github.com/nathangiusti/SixtyFourdleAnalysis): Finds minimum solution sets for 64ordle 
