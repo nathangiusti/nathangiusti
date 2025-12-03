@@ -2,11 +2,11 @@ Software Engineer specializing in data ingestion, modeling, and analysis.
 
 ## Projects of Note
 
-### SISENSE
+### ANALYSIS PROJECTS
 
-[PySense](https://github.com/nathangiusti/pysense): A Python SDK for Sisense
+[Great British Bake-Off](https://github.com/nathangiusti/BakeOff): A data-based analysis of Great British Bake-Off
 
-[Sisense Scripts](https://github.com/nathangiusti/Sisense): Sample JS scripts for customizing your Sisense dashboards
+[64ordle](https://github.com/nathangiusti/SixtyFourdleAnalysis): Finds minimum solution sets for 64ordle 
 
 ### POWER BI
 
@@ -20,8 +20,8 @@ Software Engineer specializing in data ingestion, modeling, and analysis.
 
 [PBIX Pipeline Deploy](https://github.com/nathangiusti/Power-BI-Pipeline-Deploy): GitHub action to deploy PBIX files to workspace via pipeline
 
-### ANALYSIS PROJECTS
+### SISENSE
 
-[Great British Bake-Off](https://github.com/nathangiusti/BakeOff): A data-based analysis of Great British Bake-Off
+[PySense](https://github.com/nathangiusti/pysense): A Python SDK for Sisense
 
-[64ordle](https://github.com/nathangiusti/SixtyFourdleAnalysis): Finds minimum solution sets for 64ordle 
+[Sisense Scripts](https://github.com/nathangiusti/Sisense): Sample JS scripts for customizing your Sisense dashboards
